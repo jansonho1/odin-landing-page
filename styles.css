@@ -1,0 +1,13 @@
+body {
+    font: roboto;
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
